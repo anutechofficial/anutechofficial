@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Bad luck for you all my advance repos are private 😓
+# Bad luck for you, all my advance repos are private 😓
 
 <!--
 **anutechofficial/anutechofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +29,7 @@ Here are some ideas to get you started:
 
 #### 🙉 - Backend:
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Nestjs](https://img.shields.io/badge/NestJs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![◾️](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 #### 🙊 - Database:
