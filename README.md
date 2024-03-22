@@ -1,4 +1,5 @@
-# Bad luck for you, all my advance repos are private 😓
+<!-- # Bad luck for you, all my advance repos are private 😓 -->
+# Hi there 👋
 
 <!--
 **anutechofficial/anutechofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
