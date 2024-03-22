@@ -17,6 +17,27 @@ Here are some ideas to get you started:
 -->
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=anutechofficial&show_icons=true&locale=en&theme=tokyonight" alt="anutechofficial" /></p>
 
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anutechofficial&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<!-- ## Stats 📈 -->
+<details>
+	<summary> My GitHub Stats</summary>
+<br>
+<p align="center">
+<a href="https://github.com/anutechofficial">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anutechofficial&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anutechofficial&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c" />
+</a>
+</p>
+</details>
+
+
+---
+
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
 ### Web Design & Development 💻:
