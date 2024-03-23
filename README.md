@@ -69,6 +69,12 @@ Here are some ideas to get you started:
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+### Integrations
+
+![AWS S3](https://img.shields.io/badge/AWS_S3-43853D.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Textract](https://img.shields.io/badge/AWS_Textract-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Rekognition](https://img.shields.io/badge/AWS_Rekognition-508FC9?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 ### Others
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
