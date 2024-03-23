@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 ![AWS S3](https://img.shields.io/badge/AWS_S3-43853D.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Textract](https://img.shields.io/badge/AWS_Textract-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Rekognition](https://img.shields.io/badge/AWS_Rekognition-508FC9?style=for-the-badge&logo=amazonaws&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/ffmpeg-05710F.svg?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 #### Others
 
