@@ -64,25 +64,25 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger Docs](https://img.shields.io/badge/Swagger%20Docs-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white)
 
-### DevOps ♾️
+#### DevOps ♾️
 
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### Integrations
+#### Integrations
 
 ![AWS S3](https://img.shields.io/badge/AWS_S3-43853D.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Textract](https://img.shields.io/badge/AWS_Textract-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Rekognition](https://img.shields.io/badge/AWS_Rekognition-508FC9?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Others
+#### Others
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### IDEs and Tools 🛠
+#### IDEs and Tools 🛠
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-46DE8A.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
