@@ -77,6 +77,8 @@ Here are some ideas to get you started:
 ![AWS Textract](https://img.shields.io/badge/AWS_Textract-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Rekognition](https://img.shields.io/badge/AWS_Rekognition-508FC9?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/ffmpeg-05710F.svg?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087.svg?style=for-the-badge&logo=paypal&logoColor=white)
 
 #### Others
 
