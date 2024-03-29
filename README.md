@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## Languages & Frameworks & Skills 
 
-### Web Design & Development 💻
+### Web Design & Development
 
 #### Frontend:
 
