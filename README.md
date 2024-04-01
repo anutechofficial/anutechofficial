@@ -1,6 +1,9 @@
 <!-- # Bad luck for you, all my advance repos are private 😓 -->
+<p align="right"><a rel="me" href="https://www.youtube.com/c/Anutech">
+    <img alt="Subscribers" title="Subscribe me on YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCj5zhDnQ5M5q1-r4_j8haWw?label=Subscribe&logo=youtube&logoColor=white&style=for-the-badge&labelColor=FF0000&color=FF0000"/></a>
+</p>
 
-## Advance Repos will be public soon ..
+## Advance Repos will be public soon..
 
 <!--
 **anutechofficial/anutechofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +40,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Languages & Frameworks & Skills 
+## Languages & Frameworks & Skills
 
 ### Web Design & Development
 
