@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=anutechofficial&show_icons=true&locale=en&theme=tokyonight" alt="anutechofficial" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=anutechofficial&show_icons=true&locale=en&theme=tokyonight" alt="anutechofficial" /></p> -->
 
 ---
 
