@@ -23,29 +23,29 @@ Here are some ideas to get you started:
 
 <!-- <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=anutechofficial&show_icons=true&locale=en&theme=tokyonight" alt="anutechofficial" /></p> -->
 
----
+<!-- ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anutechofficial&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anutechofficial&theme=discord)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- ## Stats 📈 -->
 <!-- <details>
  <summary> My GitHub Stats</summary> -->
-<br>
+<!-- <br>
 <p align="center">
 <a href="https://github.com/anutechofficial">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anutechofficial&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anutechofficial&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c" />
 </a>
-</p>
+</p> -->
 <!-- </details> -->
 
 ---
 
-## Languages & Frameworks & Skills
+<!-- ## Languages & Frameworks & Skills
 
-### Web Design & Development
+### Web Design & Development -->
 
-#### Frontend
+<!-- #### Frontend
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-46DE8A.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) -->
 
 ## Support
 
