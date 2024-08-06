@@ -1,6 +1,6 @@
 <!-- # Bad luck for you, all my advance repos are private 😓 -->
 <p align="right"><a rel="me" href="https://www.youtube.com/c/Anutech">
-    <img alt="Subscribers" title="Subscribe me on YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCj5zhDnQ5M5q1-r4_j8haWw?label=Subscribe&logo=youtube&logoColor=white&style=for-the-badge&labelColor=FF0000&color=FF0000"/></a>
+    <img alt="Subscribers" title="Subscribe me on YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCj5zhDnQ5M5q1-r4_j8haWw?label=Subscribe&logo=youtube&logoColor=white&style=for-the-badge"/></a>
     <a rel="me" href="https://stackoverflow.com/users/21212482/anurag-yadav">
     <img alt="Stack Overflow" title="Stack Overflow" src="https://img.shields.io/stackexchange/stackoverflow/r/21212482?label=Stack%20Overflow%20reputation&logo=stackoverflow&style=for-the-badge"/></a>
     <img alt="GitHub Views" title="GitHub Views" src="https://komarev.com/ghpvc/?username=anutechofficial&color=blueviolet&style=for-the-badge">
