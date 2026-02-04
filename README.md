@@ -95,10 +95,11 @@ Here are some ideas to get you started:
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-46DE8A.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) -->
+![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## Support
 
 If you like my work, you can buy me a coffee by clicking the button below:
 
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=anutechofficial&button_colour=fcfcfc&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://buymeacoffee.com/anutechofficial)
+-->
